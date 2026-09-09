@@ -33,7 +33,11 @@ A modern, professional website for ELVÉRA beauty brand featuring elegant design
 
 ## Deployment
 
-This website is deployed on Vercel and can be accessed at: [Add Vercel URL after deployment]
+This website is deployed on Vercel and can be accessed at: https://elvera-beauty.vercel.app
+
+## Repository
+
+GitHub Repository: https://github.com/faizan-dev69/elvera-beauty-website
 
 ## Local Development
 
